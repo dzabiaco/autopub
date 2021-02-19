@@ -13,10 +13,10 @@ import org.openqa.selenium.chrome.ChromeDriver;
 public class Initialization {
 	
 	private static WebDriver driver;
-	private static String url ="https://999.md/ru/";
-	private static String username = "sennetta";
-	private static String email ="ssennetta@gmail.com";
-	private static String password = "JavaScript8*";
+	private static String url ="";
+	private static String username = "";
+	private static String email ="";
+	private static String password = "";
 
 	public static void main(String[] args) throws FileNotFoundException {
 		// TODO Auto-generated method stub
