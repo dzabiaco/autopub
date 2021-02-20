@@ -17,9 +17,9 @@ public class Initialization {
 	
 	private static WebDriver driver;
 	private static String url ="https://999.md/ru/";
-	private static String username = "ssennetta";
-	private static String email ="sennetta@gmail.com";
-	private static String password = "JavaScript8*";
+	private static String username = 
+	private static String email ="";
+	private static String password = "";
 
 	public static void main(String[] args) throws FileNotFoundException, InterruptedException {
 		// TODO Auto-generated method stub
